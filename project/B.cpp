@@ -3,5 +3,5 @@
 
 void count(int age)
 {
-    std::cout << age << std::endl;
+    std::cout << "12" << std::endl;
 }
