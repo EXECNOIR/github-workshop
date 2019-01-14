@@ -6,4 +6,6 @@
 #define PROJECT_D_H
 
 void future(std::string chineseHoroscopeSign);
+
+
 #endif //PROJECT_D_H
