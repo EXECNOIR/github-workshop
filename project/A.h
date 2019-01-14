@@ -6,6 +6,7 @@
 #define PROJECT_A_H
 
 #include <iostream>
+#include <string>
 
 void PrintName();
 

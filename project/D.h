@@ -5,5 +5,5 @@
 #ifndef PROJECT_D_H
 #define PROJECT_D_H
 
-void future();
+void future(std::string horoscope);
 #endif //PROJECT_D_H

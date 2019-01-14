@@ -4,7 +4,7 @@
 
 #include "A.h"
 
-void PrintName()
+void PrintName(std::string name)
 {
-    std::cout << "Fodor Gabor" << std::endl;
+    std::cout << name << std::endl;
 }
