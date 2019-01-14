@@ -3,5 +3,5 @@
 
 void add(std::string kutya, int count)
 {
-    std::cout << count << kutya << std::endl;
+    std::cout << "kora: "<< count << "neve: " << kutya << std::endl;
 }
