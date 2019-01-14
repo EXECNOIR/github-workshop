@@ -1,7 +1,7 @@
 #include "B.h"
 #include <iostream>
 
-void count()
+void count(int age)
 {
-    std::cout << "21" << std::endl;
+    std::cout << age << std::endl;
 }
