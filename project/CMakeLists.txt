@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.12)
-project(b1)
+project(project)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(b1 main.cpp)
+add_executable(project main.cpp)
