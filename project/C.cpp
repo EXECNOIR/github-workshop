@@ -7,5 +7,6 @@
 
 void cheer(std::string baseLanguage)
 {
-    std::cout << baseLanguage << std::endl;
+
+    std::cout << baseLanguage << "valami" << std::endl;
 }
