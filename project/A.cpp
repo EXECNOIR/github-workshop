@@ -6,5 +6,5 @@
 
 void PrintName(std::string name)
 {
-    std::cout << "Greetings" << name << std::endl;
+    std::cout << "Greetings " << name << std::endl;
 }
