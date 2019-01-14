@@ -7,5 +7,5 @@
 
 void cheer(std::string baseLanguage)
 {
-    std::cout << baseLanguage << std::endl;
+    std::cout << "cheer for the "<<baseLanguage << std::endl;
 }
