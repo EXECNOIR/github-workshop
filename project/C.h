@@ -5,6 +5,6 @@
 #ifndef PROJECT_C_H
 #define PROJECT_C_H
 
-void cheer(std::string team);
+void cheer(std::string baseLanguage);
 
 #endif //PROJECT_C_H

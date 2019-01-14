@@ -5,7 +5,7 @@
 #include "C.h"
 #include <iostream>
 
-void cheer(std::string team)
+void cheer(std::string baseLanguage)
 {
-    std::cout << team << std::endl;
+    std::cout << baseLanguage << std::endl;
 }
