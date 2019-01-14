@@ -1,6 +1,8 @@
 #include "E.h"
+#include <string.h>
 
-void add()
+void add(std::string kutya)
 {
-    std::cout << "Mimi" << std::endl;
+    kutya = "Mimi";
+    std::cout << kutya << std::endl;
 }
