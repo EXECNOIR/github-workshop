@@ -3,7 +3,7 @@ project(project)
 
 set(CMAKE_CXX_STANDARD 14)
 
-<<<<<<< HEAD
+HEAD
 add_executable(project main.cpp A.cpp A.h)
 =======
 add_executable(project main.cpp B.h B.cpp)
