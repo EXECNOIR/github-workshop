@@ -5,7 +5,7 @@
 #include "C.h"
 #include <iostream>
 
-void cheer()
+void cheer(std::string team)
 {
-    std::cout << "Penis" << std::endl;
+    std::cout << team << std::endl;
 }
